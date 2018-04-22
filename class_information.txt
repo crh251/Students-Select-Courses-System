@@ -1,0 +1,20 @@
+1499 Math All Obligatory 3 38 TeacherLu
+
+1502 English All Obligatory 3 38 TeacherZhang
+
+1503 Cprogram software Obligatory 2 24 TeacherWei
+
+1504 History Literature Elective 2 24 TeacherZhao
+
+1505 Biology Zoology Elective 2 24 TeacherLiu
+
+1506 Chemistry PolymerMaterials Obligatory 3 38 TeacherXu
+
+1507 Physical Automation Elective 2 24 TeacherHuan
+
+1508 Psychology All Elective 1.5 18 TeacherTian
+
+1509 Geography Navigation Obligatory 3 38 TeacherLi
+
+1510 PE All Obligatory 1 16 TeacherHu
+
